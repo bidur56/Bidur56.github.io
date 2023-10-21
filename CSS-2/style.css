@@ -36,7 +36,8 @@ body{background-color:silver;}
 #header ul li a{text-decoration: none;
                 color: white;}
 
-
+#service{text-decoration: none;
+                color: white;}
 img {
 
 	object-fit: cover;
