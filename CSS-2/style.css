@@ -57,7 +57,7 @@ img {
 }
 
 #bodyleft h2{color: white;
-          text-decorution:underline red;
+        underline: red;
              background-color: red;
              height:35px;}
 
